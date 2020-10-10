@@ -1,0 +1,23 @@
+{
+  "name": "tool-psd2html",
+  "version": "1.0.0",
+  "description": "echo \"# tool-psd2html\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M master git remote add origin git@github.com:cywlgit/tool-psd2html.git git push -u origin master",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylus": "^2.7.0"
+  }
+}
